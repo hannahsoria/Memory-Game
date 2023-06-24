@@ -1,4 +1,4 @@
-# Memory-Game
+# Memory Game
 
 Memory card matching game created using JavaScript
 
